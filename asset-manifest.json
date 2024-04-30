@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3de985ed.css",
-    "main.js": "/static/js/main.11f2a877.js",
+    "main.js": "/static/js/main.39e40c85.js",
     "static/js/453.fc33d1db.chunk.js": "/static/js/453.fc33d1db.chunk.js",
     "static/media/Screenshot_EMDB Movies_Case Study.png": "/static/media/Screenshot_EMDB Movies_Case Study.2b54088786371220779f.png",
     "static/media/Portfolio_Screenshot.png": "/static/media/Portfolio_Screenshot.69ddb858298adf3ee4a7.png",
@@ -20,11 +20,11 @@
     "static/media/To_Do_List_Screenshot.png": "/static/media/To_Do_List_Screenshot.59189e5e112b297f332e.png",
     "index.html": "/index.html",
     "main.3de985ed.css.map": "/static/css/main.3de985ed.css.map",
-    "main.11f2a877.js.map": "/static/js/main.11f2a877.js.map",
+    "main.39e40c85.js.map": "/static/js/main.39e40c85.js.map",
     "453.fc33d1db.chunk.js.map": "/static/js/453.fc33d1db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3de985ed.css",
-    "static/js/main.11f2a877.js"
+    "static/js/main.39e40c85.js"
   ]
 }
