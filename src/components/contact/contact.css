@@ -1,0 +1,16 @@
+.contact {
+  align-items: center;
+}
+
+.aci:hover {
+  text-decoration: none;
+}
+
+.bi-geo-alt-fill:hover {
+  color: white;
+}
+
+.aci {
+  color: white;
+  text-decoration: none;
+}

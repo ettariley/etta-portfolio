@@ -1,0 +1,17 @@
+.work {
+  align-items: center;
+}
+
+.work-card {
+  color: rgba(0, 0, 0, 0.9);
+  height: 100%;
+}
+
+.tech {
+  font-weight: 600;
+}
+
+.work-btn:hover {
+  background-color:#9d93a3;
+  border-color:#9d93a3;
+}

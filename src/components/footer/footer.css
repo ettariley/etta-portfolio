@@ -1,0 +1,14 @@
+.footer {
+  background-color: #9d93a3;
+  color: rgba(0, 0, 0, 0.9);
+  text-align: center;
+  justify-content: center;
+}
+
+a:hover {
+  color:#cdd5dd;
+}
+
+.fi {
+  color: rgba(0, 0, 0, 0.9);
+}

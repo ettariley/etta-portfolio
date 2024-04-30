@@ -1,0 +1,13 @@
+// Override default variables before the import
+$primary: #3b2747;
+$secondary: #9d93a3;
+$body-bg: #3b2747;
+$body-color: white;
+$headings-font-family: 'Montserrat Alternates', sans-serif;
+
+.bi:hover {
+  color: #cdd5dd;
+}
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
